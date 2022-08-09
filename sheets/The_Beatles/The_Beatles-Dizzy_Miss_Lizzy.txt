@@ -1,0 +1,23 @@
+Dizzy Miss Lizzy
+The Beatles
+\numericTimeSignature
+\key a \major
+\time 4/4
+
+(1) R1 ( \bar_"||" 
+\repeat volta 3 {
+\repeat percent 4 {
+(2) E5-8 E5-8 E8-8 E9-8 A7-8 A7-8 A9-8 A7-8 |
+}
+\repeat percent 2 {
+(3) A5-8 A5-8 A8-8 A9-8 D7-8 D7-8 D9-8 D7-8 |
+}
+\repeat percent 2 {
+(4) E5-8 E5-8 E8-8 E9-8 A7-8 A7-8 A9-8 A7-8 |
+}
+(5) A7-8 A7-8 A10-8 A11-8 D9-8 D9-8 D11-8 D9-8 |
+(6) A5-8 A5-8 A8-8 A9-8 D7-8 D7-8 D9-8 D7-8 |
+(7) A5-8 A5-8 A8-8 A9-8 D7-8 D7-8 D9-8 D7-8 |
+(8) A7-8 A7-8 A7-8 A7-8 A7-8 A7-8 A7-8 A7-8 |
+\bar_"||"
+}

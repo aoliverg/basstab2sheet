@@ -1,0 +1,66 @@
+Help
+The Beatles
+\numericTimeSignature
+\time 4/4
+
+(1) D9-4 D9-4 D9-4 D9-4
+(2) D9-4 D9-4 D7-4 D7-4
+(3) D5-4 D5-4 D5-4 D5-4
+(4) D5-4 D5-4 D4-4 D4-4
+\repeat percent 2 {
+(5) D2-4 D2-4 D2-4 D2-4
+}
+(7) R1
+(8) R1
+\repeat volta 2{
+\repeat percent 2 {
+(9) D7-4. D7-8 A7-2
+}
+\break
+\repeat percent 2 {
+(11) A4-4. A4-8 A6-2
+}
+\repeat percent 2 {
+(13) D4-4. D4-8 A4-2
+}
+(15) A5-4. A5-8 D5-2
+(16) D7-4. D7-8 A7-4 D5-4
+\repeat percent 2 {
+(17) D7-4. D7-8 A7-2
+}
+\repeat percent 2 {
+(19) A4-4. A4-8 D6-2
+}
+\repeat percent 2 {
+(21) D4-4. D4-8 A4-2
+}
+(23) A5-4. A5-8 D5-2
+(24) D7-8 D7-8 D7-8 D7-8 D7-8 D7-8 D7-8 D7-8 
+\break
+\repeat percent 3 {
+(25) A2-4 A2-4 E2-4 E2-4
+}
+(28) A2-4 A2-4 E5-4 E5-4
+\repeat percent 3 {
+(29) E3-4 E3-4 A5-4 A5-4
+}
+(32) E3-4 E3-4 E2-4 E2-4
+\repeat percent 2 {
+(33) E0-4 E0-4 E4-4 E4-4
+(34) A2-4 A2-4 E4-4 A2-4
+}
+(35) E5-1~ E5-1
+(37) D7-2 A7-2
+(38) D7-4 D7-4 A7-4 A7-4
+}
+\break
+(39) E5-1~ E5-1
+(41) A4-1~ A4-1
+(43) D4-1~ D4-1
+#(45) D7-2 A5-2 A5-2 E3-2
+@<a,\2 d,\3>2 <d,\3 g,,\4>2
+#(46) A7-1 E5-1 
+@<e,\3 a,,\4>1
+(47) E2-4 E2-4 A4-4 A4-4 
+(48) D4-4 D4-4 A4-4 D4-4
+(49) E5-1~ E5-1
