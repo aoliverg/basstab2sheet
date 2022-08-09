@@ -1,0 +1,13 @@
+Gloria
+Words and music: Van Morrison
+\time 4/4
+\key a \major
+\set countPercentRepeats = ##t
+\repeat percent 2 {
+(1) D2-4 D2-8 D2-8 D0-4 A0-4 |
+(2) D2-4. D2-8 D0-4 A0-4 |
+}
+\set repeatCountVisibility = #(every-nth-repeat-count-visible 4)
+\repeat percent 8 {
+(3) D2-4. D2-8 D0-4 A0-4 |
+}
