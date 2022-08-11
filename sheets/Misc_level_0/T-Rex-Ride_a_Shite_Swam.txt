@@ -1,0 +1,31 @@
+Ride a White Swam
+T-Rex
+\time 4/4
+\key a \major
+\set countPercentRepeats = ##t
+\repeat percent 4 {
+(1) ^Intro A0-4 A0-4 A0-4 A0-4 |
+}
+\break
+(2) ^Verse 
+\bar_".|:"
+A0-4 A0-4 A0-4 A0-4 |
+D0-4 D0-4 D0-4 D0-4 |
+A0-4 A0-4 A0-4 A0-4 |
+D2-4 D2-4 D2-4 D2-4 |
+A0-4 A0-4 A0-4 A0-4 |
+D0-4 D0-4 D0-4 D0-4 |
+
+\repeat percent 4 {
+A0-4 A0-4 A0-4 A0-4 |
+}
+\bar_":|."
+\break
+^Outro 
+\bar_".|:"
+A0-4 A0-4 A0-4 A0-4 |
+A0-4 A0-4 A0-4 E0-4 |
+A0-4 A0-4 A0-4 A0-4 |
+A0-4 A0-4 A0-4 E0-4 |
+\bar_":|."
+A0-1
